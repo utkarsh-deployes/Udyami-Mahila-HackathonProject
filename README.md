@@ -26,7 +26,7 @@
   - [Installation & Setup](#installation--setup)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Contribution](#contribution)
 
 ---
 
@@ -163,10 +163,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## **Contact**
+## **Contribution**
 
-Utkarsh - Contributer
-Abhishek - Contributer
+Utkarsh & Abhishek
 
 <p>
   <a href="mailto:utkarsh.cloudops@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
